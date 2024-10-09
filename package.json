@@ -43,5 +43,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "resolutions": {
+  "react-html-parser/react": "^16.14.0"
+}
+
 }
